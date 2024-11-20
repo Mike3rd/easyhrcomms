@@ -21,8 +21,8 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Graphic Design"
+# homeTitle = "EasyHRcomms" # Set a different text for the header on the home page
+  subtitle = "Do It Yourself HR Comms Made Easy"
   mainSections = ["post","posts"]
   logo = "img/avatarmturko.png" # Expecting square dimensions
   favicon = "img/favicon.ico"

@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 # homeTitle = "EasyHRcomms" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "Do It Yourself HR Comms Made Easy"
   mainSections = ["post","posts"]
   logo = "img/avatarmturko.png" # Expecting square dimensions
   favicon = "img/favicon.ico"

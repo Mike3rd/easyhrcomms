@@ -4,7 +4,7 @@
  * 01-15-2024
  * ------------------------------------------------------------------*/
  
-.page-subheading {color:red}
+.page-subheading {color:purple; font-weight:700!important}
 
 .container-top {
   --offset: 100px;
