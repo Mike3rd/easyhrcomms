@@ -1,7 +1,7 @@
 title = "easyHRcomms"
 relativeUrls = true
 canonifyURLs = true
-baseURL = "https://mturko2.vercel.app/"
+baseURL = "https://easyhrcomms.vercel.app/"
 
 [build.environmnet]
 HUGO_VERSION = "0.125.5"
