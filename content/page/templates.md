@@ -37,5 +37,5 @@ To be honest, ==I'm having== some trouble remembering right now, so why don't yo
 | Open Enrollment Guide | Powerpoint | $12.00 | [Purchase](https://easyhrcomms.gumroad.com/l/sxdzj "Purchase on Gumroad") |
 
 
-{{< blank  href="https://easyhrcomms.gumroad.com/l/sxdzj" title="Purchase" >}}
+{{< blank  href="https://easyhrcomms.gumroad.com/l/sxdzj" urlname="Purchase" title="Buy on Gumroad">}}
 
