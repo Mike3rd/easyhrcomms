@@ -91,9 +91,9 @@
   </url><url>
     <loc>http://localhost:1313/page/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/templates/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/page/templates/</loc>
   </url><url>
     <loc>http://localhost:1313/page/</loc>
   </url>

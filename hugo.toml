@@ -1,6 +1,6 @@
 baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
-title = "Mike Turko"
+title = "EasyHRcomms"
 
 
 pygmentsStyle = "trac"
@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-# homeTitle = "Mike Turko" # Set a different text for the header on the home page
+# homeTitle = "EasyHRcomms" # Set a different text for the header on the home page
   subtitle = "Build a beautiful and simple website in minutes"
   mainSections = ["post","posts"]
   logo = "img/avatarmturko.png" # Expecting square dimensions
@@ -47,12 +47,12 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params.Author]
   email = "youremail@domain.com"
-  name = "Some Person2"
+  name = "EasyHRcomms"
 
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Some Person2"
+  name = "easyHRcomms"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
   facebook = "username"

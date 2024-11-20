@@ -11,9 +11,12 @@ My name is Inigo Montoya. I have the following qualities:
 
 What else do you need?
 
+> **tacimates** [Purchase](https://easyhrcomms.gumroad.com/l/sxdzj "Purchase on Gumroad") complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis concludaturque ei qui, vide sensibus vim ad.
+
+
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions. 
+To be honest, ==I'm having== some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions. 
 
 ### [Buy Now](https://buy.stripe.com/test_7sIcN7cDM5MBbwkeUV "Secure Checkout")
 
@@ -32,3 +35,5 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 | Open Enrollment Guide | Canva, Publisher, INDD, Powerpoint | $10.00 | [Purchase](https://easyhrcomms.gumroad.com/l/sxdzj "Purchase on Gumroad") |
 | Open Enrollment Guide | Publisher | $10.00 | [Purchase](https://easyhrcomms.gumroad.com/l/sxdzj "Purchase on Gumroad") |
 | Open Enrollment Guide | Powerpoint | $12.00 | [Purchase](https://easyhrcomms.gumroad.com/l/sxdzj "Purchase on Gumroad") |
+
+
