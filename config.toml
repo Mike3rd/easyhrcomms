@@ -132,6 +132,6 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "Tags"
-    url = "page/about/"
+    url = "tags"
     weight = 4
    
