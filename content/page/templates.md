@@ -30,11 +30,11 @@ To be honest, ==I'm having== some trouble remembering right now, so why don't yo
 
 [link1](../something/ "title")
 
-| Template | Available Formats | Price | Purchase |
-| --- | ----------- | -------------- | ---- |
-| Open Enrollment Guide | Canva, Publisher, INDD, Powerpoint | $10.00 | [Purchase](https://easyhrcomms.gumroad.com/l/sxdzj "Purchase on Gumroad") |
-| Open Enrollment Guide | Publisher | $10.00 | [Purchase](https://easyhrcomms.gumroad.com/l/sxdzj "Purchase on Gumroad") |
-| Open Enrollment Guide | Powerpoint | $12.00 | [Purchase](https://easyhrcomms.gumroad.com/l/sxdzj "Purchase on Gumroad") |
+| Template | Available Formats | Price |
+| --- | ----------- | -------------- |
+| Open Enrollment Guide | Canva, Publisher, INDD, Powerpoint | {{< blank  href="https://easyhrcomms.gumroad.com/l/sxdzj" title="$10" popup="Buy on Gumroad2">}} |
+| Open Enrollment Guide | Publisher | $10.00 |
+| Open Enrollment Guide | Powerpoint | $12.00 |
 
 
 {{< blank  href="https://easyhrcomms.gumroad.com/l/sxdzj" title="Purchase" popup="Buy on Gumroad2">}}
