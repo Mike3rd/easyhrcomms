@@ -124,11 +124,7 @@ homeTitle = "Easy HR Comms" # Set a different text for the header on the home pa
     name = "Code Sample"
     url = "post/2016-03-08-code-sample"
     weight = 3
-	
-[[menu.main]]
-    name = "Templates"
-    url = "page/templates/"
-    weight = 3	
+
 
 [[menu.main]]
     name = "Tags"

@@ -117,10 +117,6 @@ pygmentsCodefencesGuessSyntax = true
     url = "post/2016-03-08-code-sample"
     weight = 3
 	
-[[menu.main]]
-    name = "Templates"
-    url = "page/templates/"
-    weight = 3	
 
 [[menu.main]]
     name = "Tags"
