@@ -40,3 +40,10 @@
 
 
 
+code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #c7254e;
+    background-color: #dddddd!important;
+    border-radius: 4px;
+}
