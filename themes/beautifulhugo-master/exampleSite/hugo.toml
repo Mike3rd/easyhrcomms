@@ -1,33 +1,30 @@
-title = "EasyHRcomms"
-relativeUrls = true
-canonifyURLs = true
-baseURL = "https://easyhrcomms.vercel.app/"
-theme = "beautifulhugo-master"
-[build.environmnet]
-HUGO_VERSION = "0.125.5"
-TZ = "America/New_York"
-
-DART_SASS_VERSION = "1.77.1"
-
+baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
-metaDataFormat = "yaml"
+title = "Beautiful Hugo"
+# Using theme as git submodule
+theme = "beautifulhugo"
+# Or when using theme as hugo module
+# theme = "github.com/halogenica/beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+
+[Services]
+  [Services.Disqus]
+    # Shortname = "XXX"
+  [Services.googleAnalytics]
+    # id = "XXX"
 
 [Params]
-homeTitle = "Easy HR Comms" # Set a different text for the header on the home page
-  subtitle = "Design It Yourself"
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Build a beautiful and simple website in minutes"
   mainSections = ["post","posts"]
-  logo = "img/avatarmturko.png" # Expecting square dimensions
+  logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
-  dateFormat = "02 January 2006"
-  custom_css = ["styles.css"]
+  dateFormat = "January 2, 2006"
   commit = false
   rss = true
   comments = true
@@ -37,8 +34,8 @@ homeTitle = "Easy HR Comms" # Set a different text for the header on the home pa
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
-  description="Your can add your website description here."
-#  hideAuthor = false
+#  cusdisID = "XXX" # Get your App id from cusdis.com
+#  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 #  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
 
@@ -54,13 +51,9 @@ homeTitle = "Easy HR Comms" # Set a different text for the header on the home pa
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
-[Params.Author]
-  email = "youremail@domain.com"
-  name = "Some Person2"
-
-[Author]
+[Params.author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "EasyHRcomms"
+  name = "Some Person"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
   facebook = "username"
@@ -91,6 +84,7 @@ homeTitle = "Easy HR Comms" # Set a different text for the header on the home pa
   medium = "username"
   discord = "invite code (https://discord.gg/XXXXXXX)"
   strava = "userid"
+  lastfm = "username"
 
 [[menu.main]]
     name = "Blog"
@@ -125,9 +119,7 @@ homeTitle = "Easy HR Comms" # Set a different text for the header on the home pa
     url = "post/2016-03-08-code-sample"
     weight = 3
 
-
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 4
-   
+    weight = 3

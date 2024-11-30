@@ -1,7 +1,7 @@
 baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
 title = "EasyHRcomms"
-
+theme = "beautifulhugo-master"
 
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
